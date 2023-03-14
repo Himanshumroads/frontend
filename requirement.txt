@@ -1,0 +1,8 @@
+cmake
+flask
+sqlite3
+face_recognition
+deepface
+cv2
+dlib
+python

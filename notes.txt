@@ -1,0 +1,2 @@
+1. The image we are capturing and processing to the backend I want it in (.jpg/png) format so that we can store it as name.jpg. Right now its in base64 encoded.
+2. please remove the black background behind the form and we can use white color fonts.
